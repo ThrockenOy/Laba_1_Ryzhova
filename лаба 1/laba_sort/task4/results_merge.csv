@@ -1,0 +1,16 @@
+size;case;merge_ms
+1000;best;1
+1000;average;1
+1000;worst;1
+5000;best;5
+5000;average;5
+5000;worst;4
+10000;best;10
+10000;average;11
+10000;worst;10
+25000;best;25
+25000;average;28
+25000;worst;25
+50000;best;51
+50000;average;56
+50000;worst;52

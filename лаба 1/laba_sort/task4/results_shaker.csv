@@ -1,0 +1,16 @@
+size;case;shaker_ms
+1000;best;1
+1000;average;3
+1000;worst;3
+5000;best;18
+5000;average;69
+5000;worst;78
+10000;best;74
+10000;average;303
+10000;worst;312
+25000;best;467
+25000;average;1972
+25000;worst;1963
+50000;best;1908
+50000;average;8038
+50000;worst;7854

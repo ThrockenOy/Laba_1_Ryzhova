@@ -1,0 +1,16 @@
+size;case;heap_ms
+1000;best;0
+1000;average;0
+1000;worst;1
+5000;best;0
+5000;average;2
+5000;worst;1
+10000;best;3
+10000;average;2
+10000;worst;2
+25000;best;6
+25000;average;8
+25000;worst;5
+50000;best;13
+50000;average;17
+50000;worst;12

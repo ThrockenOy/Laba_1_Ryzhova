@@ -1,0 +1,16 @@
+size;case;bubble_ms
+1000;best;0
+1000;average;2
+1000;worst;3
+5000;best;20
+5000;average;72
+5000;worst;78
+10000;best;82
+10000;average;335
+10000;worst;313
+25000;best;506
+25000;average;2381
+25000;worst;2010
+50000;best;2050
+50000;average;10159
+50000;worst;12374

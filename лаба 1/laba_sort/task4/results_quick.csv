@@ -1,0 +1,16 @@
+size;case;quick_ms
+1000;best;0
+1000;average;0
+1000;worst;0
+5000;best;0
+5000;average;0
+5000;worst;0
+10000;best;0
+10000;average;2
+10000;worst;0
+25000;best;2
+25000;average;4
+25000;worst;3
+50000;best;5
+50000;average;9
+50000;worst;6
